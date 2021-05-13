@@ -31,7 +31,7 @@ p {
 }
 
 .main-sec {
-    background-color: #b9b8b8;
+    background-color: #EFEFEF;
     padding: 45px 0 35px 0;
 }
 
@@ -49,6 +49,20 @@ h1 {
     justify-content: space-around;
 }
 
+.info-sect {
+    padding-bottom: 70px;
+}
+
 .info-link {
     text-decoration: none;
+}
+
+.footer-sect {
+    background-color: #EFEFEF;
+    height: 240px;
+    padding-top: 30px;
+}
+
+.footer-container {
+    display: flex;
 }
